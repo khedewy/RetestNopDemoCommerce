@@ -1,0 +1,12 @@
+[
+  {
+    "country":"Egypt",
+    "city": "Sohag",
+    "addressOne": "Egypt",
+    "addressTow" : "Sohag",
+    "zip": "1331",
+    "phone": "01205456788",
+    "fax": "12311"
+
+  }
+]
